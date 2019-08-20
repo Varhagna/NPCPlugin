@@ -1,0 +1,3 @@
+main: com.projectkorra.npc.PKNPCPlugin
+name: PKNPCCore
+version: '1.0'
